@@ -1,2 +1,2 @@
 # 4bhel-aap13
-Demo Repository (Chrissi du guggle du!)
+Demo Repository (Chrissi du guggl du! LG)
